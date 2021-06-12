@@ -1,0 +1,23 @@
+#header-img{
+    width: 300px;
+    hieght: 100px;
+    float: left;
+  }
+  #header{
+    position: fixed;
+    top: 0;
+  }
+  #nav-bar{
+     float: right;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  @media screen and (min-width: 480px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  
